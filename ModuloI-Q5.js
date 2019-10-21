@@ -13,5 +13,5 @@ function imprimirNota(nota) {
 
 
 console.log(aluno.notas[0].valor)
-console.log(aluno.notas[0].valor)
-console.log(aluno.notas[0].valor)
+console.log(aluno.notas[1].valor)
+console.log(aluno.notas[2].valor)
