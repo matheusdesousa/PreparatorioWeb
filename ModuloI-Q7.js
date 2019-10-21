@@ -10,4 +10,4 @@ function try_catch(){
     }
 }
 
-try_catch
+try_catch()
