@@ -7,6 +7,5 @@ const fisica = {
     }
 }
 
-var {localização: {sala}} = fisica
+let {localização: {sala}} = fisica
 console.log(sala)
-console.log(typeof sala)
