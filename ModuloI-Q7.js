@@ -9,3 +9,5 @@ function try_catch(){
         console.log("Esta mensagem sempre será exibida")
     }
 }
+
+try_catch
